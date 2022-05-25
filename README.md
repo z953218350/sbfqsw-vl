@@ -16,7 +16,7 @@ Heroku是一个支持多种编程语言的云平台即服务。目前支持Ruby�
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fz953218350%2Fsbfqsw-vless)
 
-
+<!--
 #### 注：失效问题
 上方一键部署已失效，刚看到有朋友说heroku检测到代码违反服务协议，估计使用的人太多或被人举报仓库被heroku封了。
 
@@ -113,3 +113,4 @@ https://github.com/badafans/better-cloudflare-ip
 
 ### 详细文字教程（面向0基础新手）感谢@我的未来不是梦 编写。
 http://yun.21t.co/aliyun/电子资料/Heroku搭建教程.docx
+-->
